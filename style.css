@@ -238,7 +238,7 @@ body {
     /* flex-wrap: wrap; */
     grid-template-columns: repeat(3, 1fr);
     
-    border: 2px solid green;
+    /* border: 2px solid green; */
     justify-content: space-evenly;
     place-items: center;
 }
@@ -624,7 +624,7 @@ input[type=button]:hover {
     .cont {
         display: flex;
         flex-wrap: wrap;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         justify-content: space-evenly;
         place-items: center;
     }
